@@ -1,2 +1,2 @@
-HelpMate AI -
+# HelpMate AI 
 The querying of PDF documents has become increasingly important in various fields, including policy analysis, legal research, and academic studies. Traditional methods of searching within documents often fall short in providing contextually relevant results, leading to inefficiencies and user dissatisfaction. This project addresses these limitations by developing an advanced AI model that leverages sentence transformer embedding models and Retrieval-Augmented Generation (RAG). Our goal is to create a system that offers precise, comprehensive, and context-aware responses to user queries, thereby enhancing the information retrieval process from large PDF documents.
